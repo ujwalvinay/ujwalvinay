@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ujwal Vinay</h1>
 <h3 align="center">A passionate computer science grad from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1063846/screenshots/14210299/media/21be370e8563b084fb8d4330e0586a8e.mp4">
+<img align="right" alt="https://cdn.dribbble.com/users/33658/screenshots/4495064/bodhi.gif">
 <p align="left"> <a href="https://twitter.com/vinayujwal" target="blank"><img src="https://img.shields.io/twitter/follow/vinayujwal?logo=twitter&style=for-the-badge" alt="vinayujwal" /></a> </p>
 
 - 🔭 I’m currently working on **Student Manager System**
