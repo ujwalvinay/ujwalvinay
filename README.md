@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **things I do**
 
-- 📫 How to reach me **ujwal@ujwalvinay.com**
+- 📫 How to reach me **ujwavinay@ieee.org**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
