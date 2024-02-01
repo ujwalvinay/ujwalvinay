@@ -2,9 +2,9 @@
 <h3 align="center">A passionate computer science grad from India</h3>
 <p align="left"> <a href="https://twitter.com/vinayujwal" target="blank"><img src="https://img.shields.io/twitter/follow/vinayujwal?logo=twitter&style=for-the-badge" alt="vinayujwal" /></a> </p>
 
-- 🔭 I’m currently working on **Library Management System*
+- 🔭 I’m currently working on **Breast Cancer Prediction Using ML**
 
-- 🌱 I’m currently learning **Backend development, DSA**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://ujwalvinay.com/](https://ujwalvinay.com/)
 
